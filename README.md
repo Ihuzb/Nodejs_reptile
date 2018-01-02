@@ -6,5 +6,5 @@
 使用fs模块的writeFileSync将爬取的文本分别保存到不同的分类文件中。
 # 使用方法
 下载两个文件<br>
-npm install 安装模块
+npm install 安装模块<br>
 node crewler.js 即可爬取
