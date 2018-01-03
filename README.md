@@ -7,5 +7,5 @@
 使用ES6开发
 # 使用方法
 下载两个文件<br>
-npm install 安装模块
+npm install 安装模块<br>
 node crewler.js 即可爬取
